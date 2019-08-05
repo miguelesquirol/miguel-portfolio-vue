@@ -6,7 +6,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Miguel Esquirol</span>
+        <span class="d-block d-lg-none">{{ $t('name') }} {{ $t('lastname') }}</span>
         <span class="d-none d-lg-block">
         <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="./assets/profile.jpg" alt="">
       </span>
@@ -21,26 +21,24 @@
             <a class="nav-link js-scroll-trigger" href="#about"> {{ $t('pages.about') }}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+            <a class="nav-link js-scroll-trigger" href="#experience">{{ $t('pages.education') }}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+            <a class="nav-link js-scroll-trigger" href="#education">{{ $t('pages.employment') }}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+            <a class="nav-link js-scroll-trigger" href="#skills">{{ $t('pages.programming') }}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+            <a class="nav-link js-scroll-trigger" href="#interests">{{ $t('pages.interests') }}</a>
           </li>
         </ul>
-      </div>
-      <div class="language">
+        <div class="language w-100">
         Language:
         <TheLanguageSwitcher/>
       </div>
+      </div>
+
     </nav>
 
   </div>
@@ -252,6 +250,7 @@
       flex-grow: 0;
       width: 100%;
       margin-bottom: auto;
+      flex-direction:column;
     }
 
     #sideNav .navbar-collapse .navbar-nav {

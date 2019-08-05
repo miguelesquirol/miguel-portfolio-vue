@@ -15,10 +15,14 @@
     "lokalise:down": "lokalise --token=YOUR_TOKEN --project=PROJECT_ID --output=src/lang/"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.21",
+    "@fortawesome/free-brands-svg-icons": "^5.10.1",
+    "@fortawesome/free-solid-svg-icons": "^5.10.1",
+    "@fortawesome/vue-fontawesome": "^0.1.6",
     "axios": "^0.17.1",
     "bootstrap": "^4.3.1",
     "devicons": "^1.8.0",
-    "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
     "jquery.easing": "^1.4.1",
     "lokalise": "0.0.5",

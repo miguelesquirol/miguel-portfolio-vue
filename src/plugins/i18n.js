@@ -7,5 +7,6 @@ Vue.use(VueI18n)
 export const i18n = new VueI18n({
   locale: DEFAULT_LANGUAGE, // set locale
   fallbackLocale: FALLBACK_LANGUAGE,
-  messages: { en }// set locale messages
+  messages: { en }, // set locale messages
+  silentTranslationWarn: true
 })
