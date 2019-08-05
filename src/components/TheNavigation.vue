@@ -1,7 +1,7 @@
 <template>
   <div class="TheNavigation">
-    <router-link :to="$i18nRoute({ name: 'HelloWorld'})">
-      HelloWorld Page
+    <router-link :to="$i18nRoute({ name: 'Home'})">
+      Home Page
     </router-link>
     <router-link :to="$i18nRoute({ name: 'about'})">
       About Page

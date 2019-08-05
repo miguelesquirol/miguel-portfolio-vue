@@ -59,13 +59,13 @@
       TheNavigation
     },
 
-    mounted() {
+    mounted () {
       const $ = this.jquery
       this.$nextTick(() => {
-        $('#frontbildtitle').css('top', 100);
-        let window_size = $(window).width();
+        $('#frontbildtitle').css('top', 100)
+        let windowSize = $(window).width()
 
-        if (window_size > 990) {
+        if (windowSize > 990) {
           $('#sideNav').css('width', '100vw')
           setTimeout(
             function () {
