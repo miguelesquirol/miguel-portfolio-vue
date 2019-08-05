@@ -1,0 +1,11 @@
+{
+    "welcome_message": "Добре дошли във Вашият Vue.js App",
+    "name": "Miguel - FR",
+    "lastname": "Esquirol - FR",
+    "popular_links": "Популярни линкове",
+    "ecosystem": "Екосистема",
+    "pages": {
+      "about": "Страница за нас"
+    }
+  }
+  

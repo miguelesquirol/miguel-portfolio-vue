@@ -1,5 +1,7 @@
 {
   "welcome_message": "Welcome to Your Vue.js App",
+  "name": "Miguel",
+  "lastname": "Esquirol",
   "popular_links": "Popular Links",
   "ecosystem": "Ecosystem",
   "pages": {
