@@ -1,0 +1,124 @@
+{
+  "name": "Miguel Esquirol Rios",
+  "email": "miguelesquirol@gmail.com",
+  "phone": "5145678197",
+  "url": "http://miguelesquirol.com",
+  "languages" : "Spanish, English, French",
+  "education": {
+    "title-section": "Education",
+    "school1": {
+      "school": "The Ohio State University",
+      "title": "Master of  Arts (MA) ",
+      "year": "2008"
+    },
+    "school2": {
+      "school": "Universitat Ramón Llull",
+      "title": "Post-degree",
+      "year": "2006"
+    },
+    "school3": {
+      "school": "Universidad Católica Boliviana",
+      "title": "Bachelor of Arts ",
+      "year": "2002"
+    }
+  },
+  "employemnt": {
+    "title-section": "Employment",
+    "company1": {
+      "title": "Front End Developer",
+      "name": "Global Eagle",
+      "url": "http://www.globaleagle.com",
+      "period": "2018 > present",
+      "stack": ["Angular","React","SASS","Python","Linux"],
+      "description": " ",
+      "client1": {
+        "name": "Air France",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client2": {
+        "name": "Southwest",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client3": {
+        "name": "Fly Dubai",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client4": {
+        "name": "United Airways",
+        "image": "",
+        "description": "",
+        "url": ""
+      }
+    },
+    "company2": {
+      "title": "Front End Developer",
+      "name": "Nventive",
+      "url": "http://www.nventive.com",
+      "period": "2017 > 2018",
+      "stack": ["Vue", "Symphony", "Drupal", "Wordpress"],
+      "description": " ",
+      "client1": {
+        "name": "National Geograhic",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client2": {
+        "name": "CAA",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client3": {
+        "name": "College de Rosemont",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client4": {
+        "name": "Cineplex",
+        "image": "",
+        "description": "",
+        "url": ""
+      }
+    },
+    "company3": {
+      "title": "Web Designer",
+      "name": "Link Now Media",
+      "url": "http://www.linknow.com",
+      "period": "2012 > 2017",
+      "stack": ["CSS", "HTML", "Javascript", "Wordpress", "PHP"],
+      "description": "<ul>\n<li>Designer with thousands of clients, small companies across the US and Canada.</li>\n<li>Responsible of design, code and client contact</li>\n<li>Worked with PHP, CSS3, HTML5, Javascript, jQuery, Wordpress</li>\n<li>Starting with a homegrown framework in Wordpress I designed and coded thousands of different websites.</li>\n<li>Responsible of e-commerce sites on several accounts.</li>\n<li>Trainer of new junior designer on procedures, design and standards.</li>\n<li>Designer with the most clients and responsibilities on the company</li>\n</ul>"
+    },
+    "company4": {
+      "title": "Independent Web Designer",
+      "name": "",
+      "url": "http://www.globaleagle.com",
+      "period": "2018 > present",
+      "stack": ["html","css","php","wordpress"],
+      "description": "<ul><li>I worked directly with a graphic designer on different personal projects, non profit companies, and independent clients.  I had the complete control of the code and the design of the site, as well as the hosting, maintenance and regular updates of the sites.</li></ul>",
+      "client1": {
+        "name": "Air France",
+        "image": "",
+        "description": "",
+        "url": ""
+      }
+    }
+  },
+  "other-employemnt": {
+    "other-title": "Other Professional Experience",
+    "other-description": "<ul><li>I've been english teacher for adults in a Montreal institute and at university level at Ohio State University in Columbus, OH\n  <li>I have a spanish masters with experience in journalism and translation.</li>\n  <li>Manager of several web-pages and online communities working both in content and design as well as the first Blog in Bolivia and the first database of bloggers on the same country.</li>\n  <li>Worked with Databases (MySQL) and phpMyadmin for Wordpress based webpages and others.</li>\n  <li>Installation of XAMPP and LAMP servers.</li>\n  <li>Worked as Information Technology Assistant, at the Universitat de Barcelona in Spain helping teachers and the administrative personal with their computers</li>\n  <li>Installed and fixed Windows and Mac computers and set-up class rooms with dozens of computers with the required software.</li>\n  <li>Built and help maintain the computers and the network for a cibercafe I was co-owner, as well as to answer client requests and questions.</li>\n  <li>Published daily for a year articles about software and technology for a developers community.</li>\n  <li>I discovered and tested software, wrote manuals and how-to, and answered questions from the members of the community and help maintain it and make it grow.</li>\n  <li>I've been using Linux (Ubuntu) for several years, testing new software and promoting open source environments, but I’m familiar with other environments and OS.</li>\n  <li>My software of choice for coding (for the moment) is Atom, Filezilla, Firefox and Firebug. As well as Photoshop and Illustrator for design. But I’m flexible and learn quickly and can make my own research.</li></ul>"
+  },
+  "general": {
+    "company": "Company",
+    "stack": "Stack",
+    "languages": "languages",
+    "clients": "clients"
+  }
+}
