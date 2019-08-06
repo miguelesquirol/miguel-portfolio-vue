@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/migueles/miguel-portfolio/
+    - /bin/cp /dist/* $DEPLOYPATH
