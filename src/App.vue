@@ -34,9 +34,8 @@
           </li>
         </ul>
         <div class="language w-100">
-        Language:
-        <TheLanguageSwitcher/>
-      </div>
+          <TheLanguageSwitcher/>
+        </div>
       </div>
 
     </nav>
@@ -153,11 +152,7 @@
     font-weight: 400;
   }
 
-  .language {
-    width: 100%;
-    text-align: left;
-    color: #fff;
-  }
+
 
   .subheading {
     text-transform: uppercase;
@@ -200,6 +195,7 @@
     font-weight: 800;
     letter-spacing: 0.05rem;
     text-transform: uppercase;
+    color: #2f2013;
   }
 
   #sideNav .navbar-toggler:focus {
@@ -221,6 +217,8 @@
       flex-direction: column;
       width: 17rem;
       height: 100vh;
+      background-image: url("./assets/bg.jpg");
+      background-size: auto 100%;
     }
 
     #sideNav .navbar-brand {
@@ -250,7 +248,7 @@
       flex-grow: 0;
       width: 100%;
       margin-bottom: auto;
-      flex-direction:column;
+      flex-direction: column;
     }
 
     #sideNav .navbar-collapse .navbar-nav {
