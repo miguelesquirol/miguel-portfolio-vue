@@ -25,7 +25,7 @@ export default [
       },
       {
         path: '*',
-        component: load('404')
+        component: load('Home')
       }
     ]
   },
