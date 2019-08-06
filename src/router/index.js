@@ -5,7 +5,6 @@ Vue.use(Router)
 
 export default new Router({
   routes,
-  mode: 'history',
   base: __dirname,
   scrollBehavior (to, from, savedPosition) {
     if (savedPosition) {
