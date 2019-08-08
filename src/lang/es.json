@@ -95,7 +95,7 @@
         "fa-wordpress",
         "fa-sass"
       ],
-      "description" : "\"Agencia que crea aplicaciones móviles y web nativas multiplataforma con los principales clientes tecnológicos. Trabajé en un entorno de equipo altamente calificado con los principales desarrolladores de software.",
+      "description" : "Agencia que crea aplicaciones móviles y web nativas multiplataforma con los principales clientes tecnológicos. Trabajé en un entorno de equipo altamente calificado con los principales desarrolladores de software.",
       "client1": {
         "name": "National Geograhic",
         "image": "",
@@ -169,7 +169,7 @@
 
   },
   "skills": {
-    "title-section": "Skills",
+    "title-section": "Habilidades",
     "description": "<ul> <li> Diseño responsivo móvil-first</li> <li> Pruebas cruzadas de navegador y depuración de bugs (escritorio y móvil ) </li> <li> Equipos multifuncionales </li> < li> Desarrollo ágil y scrum </li> <li> Organizado y rápido </li> <li> Atención a los detalles </li> <li> Algunas habilidades de diseño con Adobe Suite </li> </ul>",
     "programming": [
       "CSS",

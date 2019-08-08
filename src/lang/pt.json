@@ -18,7 +18,7 @@
   "linkedin": "https://www.linkedin.com/in/miguel-esquirol-94289337/",
   "github": "https://github.com/miguelesquirol",
   "instagram": "https://www.instagram.com/miguelesquirol",
-  "welcome_message": "Ele programado desde hace más de 20 anos, comencé con html básico en el viejo navegador Netscape en una máquina lenta, aprendí CSS, pasé de janeiro, flash, HTML5, de tablas e iframes um sitios responsivos, jQuery y CSS3 animaciones los marcos más recientes como Reagir o Vue. Desde 2009 comencé um trabajar como diseñador web profesionalmente, con pequenos agricultores proyectos de forma independente, diseñando, programando y alojando sitios web. Desde de 2013, ele trabajado um tiempo completo como desarrollador front-end. Hoje creo páginas útiles para las personas, desarrollando sitios web y aplicaciones completos, actualmente trabajando en una empresa con grandes clientes y centos de miles de usuários. El diseño web sigue creciendo y planeo seguir aprendiendo.",
+  "welcome_message": "Eu tenho programado a partir de mais de 20 anos, comecei com html básico no antigo navegador Netscape em uma máquina desajeitada, aprendi CSS, mudei de flash para HTML5, de tabelas e iframes para sites responsivos, jQuery e CSS3 animações para os frameworks mais recentes como Reagir ou Vue. Desde 2009 comecei a trabalhar como webdesigner profissionalmente, com pequenos projetos de forma independente, projetando, codificando e hospedando sites. Desde 2013, tenho trabalhado em tempo integral como desenvolvedor front-end. Hoje eu crio páginas úteis para pessoas, desenvolvendo sites e aplicativos completos, e trabalhando em uma empresa com grandes clientes e centenas de milhares de usuários. Web design ainda está crescendo, e eu pretendo continuar aprendendo..",
   "general": {
     "company": "Companhia",
     "stack": "Pilha",
@@ -57,29 +57,29 @@
         "fa-python",
         "fa-linux"
       ],
-      "description": "Global Águia es un proveedor líder mundial de soluciones de entretenimiento, contenido multimédia, tecnología y conectividad um banco para la industria de las aerolíneas. Trabajé en el equipo de entrega llevando las aerolíneas el portal que los pasajeros verán cuando se conecten al wi-Fi en el avión. Mi función incluía adaptar el tema para o cliente específico usando SASS y GIT, localizar y corregir errores trabajando con el departamento de control de calidad y back-end. Traduje el diseño al código y modifiqué ampliamente la apariencia del portal. e implementar cambios, construir paquetes que incluyen front-end y back-end, y desplegarlos en los servidores de desarrollo, preparación y producción. Preparé archivos y scripts para su despliegue en el avión. Trabajé con otros equipos en nuestra oficina y en las oficinas internacionais para ter manchas un producto que milhas de personas usarán y disfrutarán.",
+      "description": "A Global Eagle é uma fornecedora global líder de entretenimento on-board, conteúdo multimídia, tecnologia e soluções de conectividade para o setor aéreo. Trabalhei na equipe de entregas levando para as companhias aéreas o portal que os passageiros verão quando se conectarem ao Wifi no avião. Minha função incluía adaptar o tema para o cliente específico usando o SASS e o GIT, localizando e corrigindo erros trabalhando com o departamento de controle de qualidade e de back-end. Traduzi o design no código e modifiquei bastante a aparência do portal. e implementar mudanças, criar pacotes que incluam front-end e backend e implantá-los em servidores de desenvolvimento, preparação e produção. Eu preparei arquivos e scripts para implantação no avião. Trabalhei com outras equipes em nosso escritório e em escritórios internacionais para apresentar um produto que milhares de pessoas usarão e apreciarão.\n\n",
       "client1": {
         "name": "A Air France",
         "image": "",
-        "description": "Adapté el portal principal para las necesidades específicas de este cliente. Ayudé a implementar nuevas funciones (TV en vivo, juegos, etc.). Preparé los archivos que el QA revisará y luego los aviones se habrán instalado.",
+        "description": "Adaptei o portal principal para as necessidades específicas deste cliente. Ajudei a implementar novas funções (TV ao vivo, jogos, etc.). Eu preparei os arquivos que o QA irá rever e depois os aviões terão sido instalados.",
         "url": "https://www.airfrance.ca/CA/fr/common/ife/dispatch/tous_les_films.htm"
       },
       "client2": {
         "name": "Sudoeste",
         "image": "",
-        "description": "Actualicé el aspecto del portal de con una serem revisados completa del diseño de UI / UX, adaptando los diseños del equipo de diseño al código real. Trabajé con SASS y Python, mesmo quando é para el resultado esperado. Ele ayudado um crear nuevas funciones y a solucionar los problemas que el cliente encontró",
+        "description": "Atualizei a aparência do portal com uma revisão completa do design UI / UX, adaptando os designs da equipe de design ao código real. Eu trabalhei com SASS e Python para alcançar o resultado esperado. Eu ajudei a criar novas funções e resolver os problemas que o cliente encontrou",
         "url": "https://www.southwest.com/wifi/"
       },
       "client3": {
         "name": "Voe De Dubai",
         "image": "",
-        "description": "Fui el principal desarrollador front-end asignado a este cliente, configuré el proyecto desde cero y adapté el Portal de las necesidades del cliente. Desde el inicio hasta la implementación, trabajé estrechamente con el Gerente de Produto y el equipo de back-end para localizar y solucionar problemas",
+        "description": "Fui o principal desenvolvedor front-end designado para este cliente, configurei o projeto do zero e adaptei o Portal às necessidades do cliente. Desde o início até a implementação, trabalhei em estreita colaboração com o Product Manager e a equipe back-end para localizar e resolver problemas",
         "url": "https://www.flydubai.com/en/"
       },
       "client4": {
         "name": "United Airways",
         "image": "",
-        "description": "Desarrollado pt Reagir, creamos un sitio web para ter manchas las ofertas de la aerolínea pt entretenimiento a bordo. Trabajé para que este sitio fuera totalmente acessível siguiendo los requisitos del cliente",
+        "description": "Desenvolvido na React, criamos um site para apresentar as ofertas da companhia a bordo de entretenimento. Eu trabalhei para tornar este site totalmente acessível seguindo os requisitos do cliente",
         "url": "http://unitedprivatescreening.com/"
       }
     },
@@ -95,29 +95,29 @@
         "fa-wordpress",
         "fa-sass"
       ],
-      "description": "\"A agência que crea aplicaciones móviles y web nativas multiplataforma con los principales clientes tecnológicos. Trabajé en un entorno de equipa altamente calificado con los principales desarrolladores de software.",
+      "description": "Agência que cria aplicações móveis e web nativas multiplataforma com os principais clientes tecnológicos. Eu trabalhei em um ambiente de equipe altamente qualificado com os principais desenvolvedores de software.",
       "client1": {
         "name": "National Geograhic",
         "image": "",
-        "description": "Creamos un sitio web para mostrar su último projeto. Una herramienta para aprender inglês usando Ted Talks. El sitio fue creado completamente en VUE con un back-end de Django y animaciones usando GreenSock JS.",
+        "description": "Criamos um site para mostrar seu último projeto. Uma ferramenta para aprender inglês usando Ted Talks. O site foi criado inteiramente no VUE com um backend e animações do Django usando o GreenSock JS.",
         "url": "https://eltngl.com/learnenglishwithtedtalks/#home"
       },
       "client2": {
         "name": "CAA",
-        "image": "Trabajé con el equipo de soporte de CAA, un producto automotriz, de viajes, residencial e de seguros. Con una vermelho compleja de sitios web ayudé um mantener y desarrollar nuevas funciones.",
+        "image": "Trabalhei com a equipe de suporte da CAA, um produto automotivo, de viagens, residencial e seguro. Com uma complexa rede de sites, ajudei a manter e desenvolver novas funções.\n\n",
         "description": "",
         "url": "https://www.caaquebec.com"
       },
       "client3": {
         "name": "Faculdade de Rosemont",
         "image": "",
-        "description": "Trabajé casi completamente solo como Frontend de este cliente desarrollando su sitio web principal. Utilizamos una instalación de Wordpress muy modificada con código personalizado fato de con PHP. Trabajando junto con el Diseñador y el gerente de producto tuvimos que crear un amplio variedad de páginas que muestran todo lo que esta universidade tem para ofrecer.",
+        "description": "Eu trabalhei quase completamente como Frontend deste cliente desenvolvendo seu website principal. Nós usamos uma instalação Wordpress altamente modificada com código customizado feito com PHP. Trabalhando em conjunto com o Designer e o gerente de produto, tivemos que criar uma ampla variedade de páginas que mostram tudo o que essa universidade tem a oferecer.",
         "url": "https://www.crosemont.qc.ca/"
       },
       "client4": {
         "name": "Cineplex",
         "image": "",
-        "description": "Trabajé en el equipo Frontend desarrollando o estilo y de los principales elementos frontend para el sitio web de una de las cadenas de cine más grandes de Canadá. Ayudé um crear el Marco Atómico basado en la filosofía de Diseño Atómico que luego el equipo de Back-end solía crear el sitio.",
+        "description": "Trabalhei na equipe do Frontend desenvolvendo o estilo e os principais elementos frontend para o website de uma das maiores cadeias de filmes do Canadá. Eu ajudei a criar o Atomic Framework baseado na filosofia Atomic Design que a equipe do Backend usou para criar o site.",
         "url": "https://www.cineplex.com/"
       }
     },
@@ -134,10 +134,10 @@
         "fa-php",
         "fa-paypal"
       ],
-      "description": "<ul> <li>LinkNow Mídia desarrolla sitios web y soluciones de marketing digital para mais de 10,000 clientes pt todo Estados Unidos y Canadá </li><li> Fui diseñador con quilômetros de clientes, pequeñas empresas en los Estados Unidos y Canadá. </li> <li> Fui responsável del diseño, el código y el contacto con el cliente de cada uno de ellos </ li> <li> Comenzando con un marco de producción propia pt Wordpress, diseñé y codifiqué quilômetros de sitios web diferentes. </li> <li> Fui responsável de sitios de comercio electrónico en varias cuentas. </li> <li> Capacité um nuevos designers júnior pt procedimientos, diseño y estándares. </li> <li> Yo era el diseñador con más clientes y responsabilidades en la empresa al momento de salir. </li> </ul>"
+      "description": "<ul> <li>LinkNow Media desarrolla sitios web y soluciones de marketing digital para más de 10,000 clientes en todo Estados Unidos y Canadá </li><li> Fui diseñador con miles de clientes, pequeñas empresas en los Estados Unidos y Canadá. </li> <li> Fui responsable del diseño, el código y el contacto con el cliente de cada uno de ellos </ li> <li> Comenzando con un marco de producción propia en Wordpress, diseñé y codifiqué miles de sitios web diferentes. </li> <li> Fui responsable de sitios de comercio electrónico en varias cuentas. </li> <li> Capacité a nuevos diseñadores junior en procedimientos, diseño y estándares. </li> <li> Yo era el diseñador con más clientes y responsabilidades en la empresa al momento de salir. </li> </ul>"
     },
     "company4": {
-      "title": "Diseñador web independiente",
+      "title": "Web designer freelancer",
       "name": "",
       "url": "",
       "period": "",
@@ -147,28 +147,28 @@
         "fa-php",
         "fa-wordpress"
       ],
-      "description": "Trabajé directamente con un diseñador gráfico pt diferentes proyectos personales, compañías pecado multas de lucro y clientes independientes. Tuve el controle completo del código y el diseño del sitio, así como el alojamiento, mantenimiento y actualizaciones periódicas de los sitios. Desarrollé carteras para amigos cercanos, y creé proyectos personales tratando de unir a las personas.",
+      "description": "Trabalhei diretamente com um designer gráfico em diferentes projetos pessoais, empresas sem fins lucrativos e clientes independentes. Eu tinha controle total do código e do design do site, bem como a hospedagem, manutenção e atualizações periódicas dos sites. Desenvolvi portfólios para amigos íntimos e criei projetos pessoais tentando unir as pessoas",
       "client1": {
         "name": "CSJR",
         "image": "",
-        "description": "El CSJR (Centro de Servicios de Justiça Restaurativa) es el sitio bilingüe para un proyecto pecado multas de lucro que se basa en encontros entre personas que directa o indirectamente, han sufrido o cometido delitos de natureza semelhante para restaurar juntos el daño causado por el crimen. Trabajé pt este projeto, reemplazando el sitio original que tenían por uno nuevo más moderno. Desde el diseño (junto con un diseñador gráfico), hasta la codificación, el alojamiento mantenimiento y el, el sitio encontra-se construido pt Wordpress con código PHP personalizado (pecado constructores), con seguridad y soporte multilingüe .",
+        "description": "El CSJR (Centro de Servicios de Justicia Restaurativa) es el sitio bilingüe para un proyecto sin fines de lucro que se basa en encuentros entre personas que directa o indirectamente, han sufrido o cometido delitos de naturaleza similar para restaurar juntos el daño causado por el crimen. Trabajé en este proyecto, reemplazando el sitio original que tenían por uno nuevo más moderno. Desde el diseño (junto con un diseñador gráfico), hasta la codificación, el alojamiento y el mantenimiento, el sitio está construido en Wordpress con código PHP personalizado (sin constructores), con seguridad y soporte multilingüe.",
         "url": "http://www.csjr.org/"
       },
       "client2": {
-        "name": "Cocineros Globales",
+        "name": "Cozinheiros Globais",
         "image": "",
-        "description": "Trabajando con una periodista de la índia, desarrollamos onu citio web en el que la gente podía compartilhar recetas y la experiencia de cocinar aes recetas con todo el mundo. Conseguimos cocineros de diferentes nacionalidades para compartan su experiencia con nosotros.",
+        "description": "Trabalhando com um jornalista da Índia, desenvolvemos um site onde as pessoas podiam compartilhar receitas e a experiência de cozinhar essas receitas com todos. Recebemos chefs de diferentes nacionalidades para compartilhar sua experiência conosco.",
         "url": ""
       }
     }
   },
   "other-employment": {
     "title": "Outra Experiência Profissional",
-    "description": "<ul> <li> Ele sido aos lugares de professor de espanhol para adultos en un instituto de Montreal y um nivel universitario en la Universidade de Estado de Ohio pt Columbus, OH <li> Tengo una maestría en español con experiencia en periodismo y traducción. </li> <li>Fui administrador de varias páginas web y comunidades en línea que trabajan tanto pt contenido como en diseño, así como el primer Blog en Bolivia y la primera base de dados de blogueros en el mismo país. </li> <li> Trabajé con Bases de dados (MySQL) y phpMyadmin para páginas web basadas en Wordpress y otros. </li> <li> Trabajé como Asistente de Tecnología de la Información en la Universitat de Barcelona en España, ayudando um maestros y el pessoal administrativo con sus computadoras </li> <li> Instalé y reparé computadoras Windows y Mac y configuré salones de classe con docenas de computadoras con el software requerido. </li> <li> Construí y ayudé um mantener las computadoras y fui copropietario de un cibercafé, . </li> <li> Publiqué diariamente durante un año artículos sobre software y tecnología para una comunidad de desarrolladores frances/canadience. </li> <li> Descubrí y probé software, escribí manuales y procedimientos, y respondí to na duvida de los miembros del comunidad y ayudé um mantenerla y hacerla crecer. </li> <li> Ele estado usando Linux durante mais de 15 anos, probando software nuevo y promoviendo entornos de código abierto, pero estoy familiarizado con otros entornos y sistemas operativos. </ li> <li> Mi software preferido para la programacion (por el momento) es PyCharm, Git, ngp e Firefox. También soja experto en Photoshop e Illustrator para el diseño (y sus equivalentes de open source, Gimp e Inkscape).</li> <li> Soja flexível y aprendo rápidamente y me encanta a investigar. </li> </ul>"
+    "description": "<ul> <li> Eu tenho sido um professor de espanhol adulto em um instituto de Montreal e no nível universitário na Ohio State University em Columbus, OH <li> Eu tenho um mestrado em espanhol com experiência em jornalismo e tradução. </ li> <li> Fui administrador de várias páginas da Web e comunidades on-line que trabalham tanto em conteúdo quanto em design, assim como o primeiro Blog na Bolívia e o primeiro banco de dados de blogueiros no mesmo país. </ li> <li> Eu trabalhei com bancos de dados (MySQL) e phpMyadmin para páginas web baseadas no Wordpress e outros. </ li> <li> Eu trabalhei como Assistente de Tecnologia da Informação na Universidade de Barcelona, \u200B\u200Bna Espanha, ajudando professores e funcionários administrativos com seus computadores </ li> <li> Eu instalei e consertei computadores Windows e Mac e configurei Salas de aula com dezenas de computadores com o software necessário. </ li> <li> Eu criei e ajudei a manter os computadores e co-propriedade de um cyber café. </ li> <li> Publiquei artigos sobre software e tecnologia para uma comunidade de desenvolvedores francesa / canadense diariamente por um ano. </ li> <li> Eu descobri e testei software, escrevi manuais e procedimentos e respondi a perguntas de membros da comunidade e ajudei a mantê-lo e desenvolvê-lo. </ li> <li> Eu uso o Linux há mais de 15 anos, testando novos softwares e promovendo ambientes de código aberto, mas estou familiarizado com outros ambientes e sistemas operacionais. </ li> <li> Meu software favorito para programação (no momento) é PyCharm, Git, npm e Firefox. Eu também sou um especialista em Photoshop e Illustrator para design (e seus equivalentes Opensource, Gimp e Inkscape). </ Li> <li> Eu sou flexível e aprendo rapidamente e amo pesquisar. </ li> </ ul>"
   },
   "skills": {
-    "title-section": "Competências",
-    "description": "<ul> <li> Design responsivo móvil-primeiro</li> <li> Pruebas cruzadas de navegador y depuración de bugs (escritorio y móvil ) </li> <li> Equipos multifuncionales </li> <li> Desenvolvimento ágil y scrum </li> <li> Organizado y rápido </li> <li> Atención a los detalles </li> <li> Algunas habilidades de diseño con Suíte Adobe </li> </ul>",
+    "title-section": "Habilidades",
+    "description": "<ul> <li> Primeiro design responsivo </ li> <li> Testes de vários navegadores e erros de depuração (área de trabalho e dispositivos móveis) </ li> <li> Dispositivos multifuncionais </ li> <li> Desenvolvimento ágil e scrum </ li> <li> Organizado e rápido </ li> <li> Atenção aos detalhes </ li> <li> Algumas habilidades de design com o Adobe Suite </ li> </ ul>",
     "programming": [
       "CSS",
       "SASS",
@@ -184,6 +184,6 @@
   },
   "interests": {
     "title-section": "Intereses",
-    "description": "Fuera de la programação, mis pasatiempos filho principalmente cocinar, estar con la familia y aprender cosas nuevas. Me gusta la fotografía, trabajar con madera, leer y viajar. Ele publicado un par de libros y numerosas antologías. Durante los últimos meses ele comenzado um enseñarme um dibujar. Dibujo con lapiz, tinta y acuarela: com um."
+    "description": "FFora da programação, meus hobbies são principalmente cozinhar, estar com a família e aprender coisas novas. Eu gosto de fotografia, trabalho com madeira, ler e viajar. Eu publiquei alguns livros e várias antologias. Nos últimos meses, comecei a me ensinar a desenhar. Desenho com lápis, tinta e aquarela."
   }
 }
