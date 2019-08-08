@@ -57,7 +57,7 @@
         "fa-python",
         "fa-linux"
       ],
-      "description": "A Global Eagle é uma fornecedora global líder de entretenimento on-board, conteúdo multimídia, tecnologia e soluções de conectividade para o setor aéreo. Trabalhei na equipe de entregas levando para as companhias aéreas o portal que os passageiros verão quando se conectarem ao Wifi no avião. Minha função incluía adaptar o tema para o cliente específico usando o SASS e o GIT, localizando e corrigindo erros trabalhando com o departamento de controle de qualidade e de back-end. Traduzi o design no código e modifiquei bastante a aparência do portal. e implementar mudanças, criar pacotes que incluam front-end e backend e implantá-los em servidores de desenvolvimento, preparação e produção. Eu preparei arquivos e scripts para implantação no avião. Trabalhei com outras equipes em nosso escritório e em escritórios internacionais para apresentar um produto que milhares de pessoas usarão e apreciarão.\n\n",
+      "description": "A Global Eagle é uma fornecedora global líder de entretenimento on-board, conteúdo multimídia, tecnologia e soluções de conectividade para o setor aéreo. Trabalhei na equipe de entregas levando para as companhias aéreas o portal que os passageiros verão quando se conectarem ao Wifi no avião. Minha função incluía adaptar o tema para o cliente específico usando o SASS e o GIT, localizando e corrigindo erros trabalhando com o departamento de controle de qualidade e de back-end. Traduzi o design no código e modifiquei bastante a aparência do portal. e implementar mudanças, criar pacotes que incluam front-end e backend e implantá-los em servidores de desenvolvimento, preparação e produção. Eu preparei arquivos e scripts para implantação no avião. Trabalhei com outras equipes em nosso escritório e em escritórios internacionais para apresentar um produto que milhares de pessoas usarão e apreciarão.",
       "client1": {
         "name": "A Air France",
         "image": "",
@@ -104,7 +104,7 @@
       },
       "client2": {
         "name": "CAA",
-        "image": "Trabalhei com a equipe de suporte da CAA, um produto automotivo, de viagens, residencial e seguro. Com uma complexa rede de sites, ajudei a manter e desenvolver novas funções.\n\n",
+        "image": "Trabalhei com a equipe de suporte da CAA, um produto automotivo, de viagens, residencial e seguro. Com uma complexa rede de sites, ajudei a manter e desenvolver novas funções.",
         "description": "",
         "url": "https://www.caaquebec.com"
       },
