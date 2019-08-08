@@ -18,7 +18,7 @@
   "linkedin": "https://www.linkedin.com/in/miguel-esquirol-94289337/",
   "github": "https://github.com/miguelesquirol",
   "instagram": "https://www.instagram.com/miguelesquirol",
-  "welcome_message": "I've been programming from more than 20 years, I started with basic html in old Netscape browser in a clunky machine, learned CSS, moved from flash to HTML5, from tables and iframes to responsive sites, jQuery and CSS3 animations to the latest frameworks like React or Vue. \n\nSince 2009 I started to work as webdesigner professionally, with small projects in an independent manner, designing, coding and hosting. Since 2013 I've been working full time as front-end developer. Today I create useful pages for people, developing full fledged websites, and working in a company with big clients and.\n\nWeb design is still growing, and I plan to keep on learning.",
+  "welcome_message": "I've been programming from more than 20 years, I started with basic html in old Netscape browser in a clunky machine, learned CSS, moved from flash to HTML5, from tables and iframes to responsive sites, jQuery and CSS3 animations to the latest frameworks like React or Vue. Since 2009 I started to work as webdesigner professionally, with small projects in an independent manner, designing, coding and hosting websites. Since 2013 I've been working full time as front-end developer. Today I create useful pages for people, developing full fledged websites and apps, and working in a company with big clients and hundres of thousands of users. Web design is still growing, and I plan to keep on learning.",
   "general": {
     "company": "Company",
     "stack": "Stack",
@@ -57,7 +57,7 @@
         "fa-python",
         "fa-linux"
       ],
-      "description": "Global Eagle is a leading worldwide provider of inflight entertainment, media content, technology and connectivity solutions to the airline industry. I worked in the delivery team bringing to the Airlines the portal that the passengers will see when they connect to the Wifi on the plane. My role included adapt the theme for the specific client using SASS and GIT, locate and fix bugs working with the QA and Backend department. I translated design to code and modified extensively the look and feel of the portal. I reviewd and implement changes, build packages including front and backend, and deploy into the Development, Staging and Production Servers. I prepared files and scripts for deployment on the plane. I worked with other teams in our office and in the international offices to present a product that thousands of people will use and enjoy.",
+      "description": "Global Eagle is a leading worldwide provider of inflight entertainment, media content, technology and connectivity solutions to the airline industry. I worked in the delivery team bringing to the Airlines the portal that the passengers will see when they connect to the Wifi on the plane. My role included adapt the theme for the specific client using SASS and GIT, locate and fix bugs working with the QA and Backend department. I translated design to code and modified extensively the look and feel of the portal. I reviewd and implement changes, build packages including front and backend, and deployed them into the Development, Staging and Production Servers. I prepared files and scripts for deployment on the plane. I worked with other teams in our office and in the international offices to present a product that thousands of people will use and enjoy.",
       "client1": {
         "name": "Air France",
         "image": "",
@@ -67,7 +67,7 @@
       "client2": {
         "name": "Southwest",
         "image": "",
-        "description": "I updated the look and file of the portal with a complete overhaul of UI/UX desgin, adapting the Designs from the Design Team into the actual code. I worked with SASS and Python to achieve the expected result",
+        "description": "I updated the look and feel of the portal with a complete overhaul of UI/UX desgin, adapting the Designs from the Design Team into the actual code. I worked with SASS and Python to achieve the expected result. I've helped to create new features, and fix the issues that the client found",
         "url": "https://www.southwest.com/wifi/"
       },
       "client3": {
@@ -92,9 +92,10 @@
         "fa-vuejs",
         "fa-symfony",
         "fa-drupal",
-        "fa-wordpress"
+        "fa-wordpress",
+        "fa-sass"
       ],
-      "description": " ",
+      "description" : "Agency that creates cross platform native mobile and web apps with major tech clients. I worked in a highly skilled team environment with top software developers.",
       "client1": {
         "name": "National Geograhic",
         "image": "",
@@ -110,13 +111,13 @@
       "client3": {
         "name": "College de Rosemont",
         "image": "",
-        "description": "I worked almost completely alone as a Frontend of this client developing their main website. We used a heavily modified Wordpress instalation with custom code made with PHP. Working together with the Backend and the product manager we had to create a wide variety of pages that showcase everything this university has to offer",
+        "description": "I worked almost completely alone as a Frontend of this client developing their main website. We used a heavily modified Wordpress instalation with custom code made with PHP. Working together with the Designer and the product manager we had to create a wide variety of pages that showcase everything this university has to offer",
         "url": "https://www.crosemont.qc.ca/"
       },
       "client4": {
         "name": "Cineplex",
         "image": "",
-        "description": "I worked in the Frontend team developing the Style and main frontend elements for the website of one of the biggest Cinema Chains in Canada. I helped create the Atomic Framework based on the Atomic Design philosophy, that later the Backend team used to create the site.",
+        "description": "I worked in the Frontend team developing the style and main frontend elements for the website of one of the biggest Cinema Chain in Canada. I helped create the Atomic Framework based on the Atomic Design philosophy that later the Backend team used to create the site.",
         "url": "https://www.cineplex.com/"
       }
     },
@@ -130,9 +131,11 @@
         "fa-html5",
         "fa-js-square",
         "fa-wordpress",
-        "fa-php"
+        "fa-php",
+        "fa-paypal"
+
       ],
-      "description": "<ul>\n<li>Designer with thousands of clients, small companies across the US and Canada.</li>\n<li>Responsible of design, code and client contact</li>\n<li>Worked with PHP, CSS3, HTML5, Javascript, jQuery, Wordpress</li>\n<li>Starting with a homegrown framework in Wordpress I designed and coded thousands of different websites.</li>\n<li>Responsible of e-commerce sites on several accounts.</li>\n<li>Trainer of new junior designer on procedures, design and standards.</li>\n<li>Designer with the most clients and responsibilities on the company</li>\n</ul>"
+      "description": "<ul> <li>LinkNow Media develops websites and digital marketing solutions for over 10,000+ clients throughout the United States and Canada</li><li>I was designer with thousands of clients, small companies across the US and Canada.</li><li>I was responsible of design, code and client contact of each of them</li><li>Starting with a homegrown framework in Wordpress I designed and coded thousands of different websites.</li><li>I was responsible of e-commerce sites on several accounts.</li><li>I trained new junior designers on procedures, design and standards.</li><li>I was the designer with the most clients and responsibilities on the company at the moment of leaving.</li></ul>"
     },
     "company4": {
       "title": "Independent Web Designer",
@@ -145,22 +148,22 @@
         "fa-php",
         "fa-wordpress"
       ],
-      "description": "<ul><li>I worked directly with a graphic designer on different personal projects, non profit companies, and independent clients.  I had the complete control of the code and the design of the site, as well as the hosting, maintenance and regular updates of the sites.</li></ul>",
+      "description": "I worked directly with a graphic designer on different personal projects, non profit companies, and independent clients.  I had the complete control of the code and the design of the site, as well as the hosting, maintenance and regular updates of the sites. I developed portfolios for close friends, and created personal projects trying to bring people together.",
       "client1": {
         "name": "CSJR",
         "image": "",
-        "description": "The CSJR (Centre for Services in Restorative justice) is the bilingual site for a non-profit project that relies on encounters between persons who directly or indirectly, have suffered or committed crimes of a similar nature in order to restore together the damage done by the crime. I worked on this project, replacing the original site they had withe a new more modern one. From design (together with a graphic designer), to coding, hosting and maintenance, the site is built on Wordpress with custom PHP code (without builders), with security and multilingual supprot.",
+        "description": "The CSJR (Centre for Services in Restorative justice) is the bilingual site for a non-profit project that relies on encounters between persons who directly or indirectly, have suffered or committed crimes of a similar nature in order to restore together the damage done by the crime. I worked on this project, replacing the original site they had with a new more modern one. From design (together with a graphic designer), to coding, hosting and maintenance, the site is built on Wordpress with custom PHP code (without builders), with security and multilingual supprot.",
         "url": "http://www.csjr.org/"
       }
     }
   },
   "other-employment": {
     "title": "Other Professional Experience",
-    "description": "<ul><li>I've been spanish teacher for adults in a Montreal institute and at university level at Ohio State University in Columbus, OH\n  <li>I have a spanish masters with experience in journalism and translation.</li>\n  <li>Manager of several web-pages and online communities working both in content and design as well as the first Blog in Bolivia and the first database of bloggers on the same country.</li>\n  <li>Worked with Databases (MySQL) and phpMyadmin for Wordpress based webpages and others.</li>\n  <li>Installation of XAMPP and LAMP servers.</li>\n  <li>Worked as Information Technology Assistant, at the Universitat de Barcelona in Spain helping teachers and the administrative personal with their computers</li>\n  <li>Installed and fixed Windows and Mac computers and set-up class rooms with dozens of computers with the required software.</li>\n  <li>Built and help maintain the computers and the network for a cibercafe I was co-owner, as well as to answer client requests and questions.</li>\n  <li>Published daily for a year articles about software and technology for a developers community.</li>\n  <li>I discovered and tested software, wrote manuals and how-to, and answered questions from the members of the community and help maintain it and make it grow.</li>\n  <li>I've been using Linux for over 15 years, testing new software and promoting open source environments, but I’m familiar with other environments and OS.</li>\n  <li>My software of choice for coding (for the moment) is PyCharm, Git, npm, and Firefox . I'm also proficient at Photoshop and Illustrator for design (and their Opensource equivalents, Gimp and Inkscape). I’m flexible and learn quickly and love to do research.</li></ul>"
+    "description": "<ul><li>I've been spanish teacher for adults in a Montreal institute and at university level at Ohio State University in Columbus, OH <li>I have a spanish masters with experience in journalism and translation.</li> <li>Manager of several web-pages and online communities working both in content and design as well as the first Blog in Bolivia and the first database of bloggers on the same country.</li> <li>Worked with Databases (MySQL) and phpMyadmin for Wordpress based webpages and others.</li> <li>Installation of XAMPP and LAMP servers.</li> <li>Worked as Information Technology Assistant, at the Universitat de Barcelona in Spain helping teachers and the administrative personal with their computers</li> <li>Installed and fixed Windows and Mac computers and set-up class rooms with dozens of computers with the required software.</li> <li>Built and help maintain the computers and the network for a cibercafe I was co-owner, as well as to answer client requests and questions.</li> <li>Published daily for a year articles about software and technology for a developers community.</li> <li>I discovered and tested software, wrote manuals and how-to, and answered questions from the members of the community and help maintain it and make it grow.</li> <li>I've been using Linux for over 15 years, testing new software and promoting open source environments, but I’m familiar with other environments and OS.</li> <li>My software of choice for coding (for the moment) is PyCharm, Git, npm, and Firefox . I'm also proficient at Photoshop and Illustrator for design (and their Opensource equivalents, Gimp and Inkscape). I’m flexible and learn quickly and love to do research.</li></ul>"
   },
   "skills": {
     "title-section": "Skills",
-    "description": "<ul><li>Mobile-First, Responsive Design</li><li>Cross Browser Testing &amp; Debugging (Desktop and Mobile=</li><li>Cross Functional Teams</li><li>Agile Development &amp; Scrum</li></ul>",
+    "description": "<ul><li>Mobile-First, Responsive Design</li><li>Cross Browser Testing &amp; Debugging (Desktop and Mobile=</li><li>Cross Functional Teams</li><li>Agile Development &amp; Scrum</li><li>Organized and fast</li><li>Atention to detail</li><li>Some design skills with the Adobe Suite</li></ul>",
     "programming": [
       "CSS",
       "SASS",
@@ -179,4 +182,3 @@
     "description": "Outside of programming, my hobbies are mainly cooking, being with the family and learning new things. I like photography, to work with wood, read and travel. I have published a couple of books and numerous anthologies. For the past few months I have started to teach myself to draw. Drawing with pencil, ink and watercolor."
   }
 }
-
