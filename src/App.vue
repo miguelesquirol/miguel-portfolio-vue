@@ -26,8 +26,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#education">{{ $t('pages.employment') }}</a>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#skills">{{ $t('pages.programming') }}</a>
+            <a class="nav-link js-scroll-trigger" href="#skills">{{ $t('pages.skills') }}</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#interests">{{ $t('pages.interests') }}</a>
@@ -72,7 +73,18 @@
                 // Animation complete.
               })
             }, 1500)
+        } else {
+          $('#sideNav').css('height', '50vh')
+          setTimeout(
+            function () {
+              $('#sideNav').animate({
+                height: 56
+              }, 500, function () {
+                $('#sideNav').css('height', 'auto')
+              })
+            }, 1500)
         }
+
         // our custom jQuery code goes here
         $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () {
           if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
@@ -153,7 +165,6 @@
   }
 
 
-
   .subheading {
     text-transform: uppercase;
     font-weight: 500;
@@ -191,6 +202,10 @@
     color: #BD5D38;
   }
 
+  #sideNav {
+    background-image: url("./assets/bg.jpg");
+  }
+
   #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 800;
     letter-spacing: 0.05rem;
@@ -200,6 +215,23 @@
 
   #sideNav .navbar-toggler:focus {
     outline-color: #d48a6e;
+  }
+
+  @media (max-width: 992px) {
+    #sideNav {
+      background-size: 100% auto;
+      background-position: top right;
+      background-repeat: no-repeat;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+
+    #sideNav .navbar-brand span {
+      color: #fff !important;
+      font-weight: bold;
+
+    }
   }
 
   @media (min-width: 992px) {
@@ -217,7 +249,6 @@
       flex-direction: column;
       width: 17rem;
       height: 100vh;
-      background-image: url("./assets/bg.jpg");
       background-size: auto 100%;
     }
 
@@ -228,7 +259,9 @@
       margin: auto auto 0 0;
       padding: 0.5rem;
       width: 100%;
+      color: #70252a !important;
     }
+
 
     #sideNav .navbar-brand .img-profile {
       max-width: 10rem;

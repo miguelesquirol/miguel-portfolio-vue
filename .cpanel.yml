@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/migueles/portfolio.miguelesquirol.com/
+    - export DEPLOYPATH=/home/migueles/public_html/
     - /bin/cp -R dist/* $DEPLOYPATH
