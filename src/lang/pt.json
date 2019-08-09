@@ -51,11 +51,11 @@
       "url": "http://www.globaleagle.com",
       "period": "2018 > presente",
       "stack": [
-        "fa-angular",
-        "fa-react",
-        "fa-sass",
-        "fa-python",
-        "fa-linux"
+        "angular",
+        "react",
+        "sass",
+        "python",
+        "linux"
       ],
       "description": "A Global Eagle é uma fornecedora global líder de entretenimento on-board, conteúdo multimídia, tecnologia e soluções de conectividade para o setor aéreo. Trabalhei na equipe de entregas levando para as companhias aéreas o portal que os passageiros verão quando se conectarem ao Wifi no avião. Minha função incluía adaptar o tema para o cliente específico usando o SASS e o GIT, localizando e corrigindo erros trabalhando com o departamento de controle de qualidade e de back-end. Traduzi o design no código e modifiquei bastante a aparência do portal. e implementar mudanças, criar pacotes que incluam front-end e backend e implantá-los em servidores de desenvolvimento, preparação e produção. Eu preparei arquivos e scripts para implantação no avião. Trabalhei com outras equipes em nosso escritório e em escritórios internacionais para apresentar um produto que milhares de pessoas usarão e apreciarão.",
       "client1": {
@@ -89,11 +89,11 @@
       "url": "http://www.nventive.com",
       "period": "2017 > 2018",
       "stack": [
-        "fa-vuejs",
-        "fa-symfony",
-        "fa-drupal",
-        "fa-wordpress",
-        "fa-sass"
+        "vuejs",
+        "symfony",
+        "drupal",
+        "wordpress",
+        "sass"
       ],
       "description": "Agência que cria aplicações móveis e web nativas multiplataforma com os principais clientes tecnológicos. Eu trabalhei em um ambiente de equipe altamente qualificado com os principais desenvolvedores de software.",
       "client1": {
@@ -127,12 +127,12 @@
       "url": "http://www.linknow.com",
       "period": "2012 > 2017",
       "stack": [
-        "fa-css3",
-        "fa-html5",
-        "fa-js-square",
-        "fa-wordpress",
-        "fa-php",
-        "fa-paypal"
+        "css3",
+        "html5",
+        "js-square",
+        "wordpress",
+        "php",
+        "paypal"
       ],
       "description": "<ul> <li>LinkNow Media desarrolla sitios web y soluciones de marketing digital para más de 10,000 clientes en todo Estados Unidos y Canadá </li><li> Fui diseñador con miles de clientes, pequeñas empresas en los Estados Unidos y Canadá. </li> <li> Fui responsable del diseño, el código y el contacto con el cliente de cada uno de ellos </ li> <li> Comenzando con un marco de producción propia en Wordpress, diseñé y codifiqué miles de sitios web diferentes. </li> <li> Fui responsable de sitios de comercio electrónico en varias cuentas. </li> <li> Capacité a nuevos diseñadores junior en procedimientos, diseño y estándares. </li> <li> Yo era el diseñador con más clientes y responsabilidades en la empresa al momento de salir. </li> </ul>"
     },
@@ -142,10 +142,10 @@
       "url": "",
       "period": "",
       "stack": [
-        "fa-html5",
-        "fa-css3",
-        "fa-php",
-        "fa-wordpress"
+        "html5",
+        "css3",
+        "php",
+        "wordpress"
       ],
       "description": "Trabalhei diretamente com um designer gráfico em diferentes projetos pessoais, empresas sem fins lucrativos e clientes independentes. Eu tinha controle total do código e do design do site, bem como a hospedagem, manutenção e atualizações periódicas dos sites. Desenvolvi portfólios para amigos íntimos e criei projetos pessoais tentando unir as pessoas",
       "client1": {

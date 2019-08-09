@@ -21,6 +21,12 @@
   import {Trans} from '@/plugins/Translation'
 
   export default {
+    data () {
+      return {
+        content: this.value,
+        picked: 'en'
+      }
+    },
     computed: {
       supportedLanguages () {
         return Trans.supportedLanguages
@@ -45,13 +51,13 @@
 </script>
 
 <style>
- .language-selector {
+  .language-selector {
     list-style-type: none;
     margin: 25px 0 0 0;
     padding: 0;
-   display: flex;
-   flex-wrap: nowrap;
-   width: 244px;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 244px;
   }
 
   .language {
@@ -68,7 +74,6 @@
   .LanguageSwitcher {
     margin-bottom: 1rem;
   }
-
 
 
   .language-selector li {

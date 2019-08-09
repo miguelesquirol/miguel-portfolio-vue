@@ -48,16 +48,14 @@
 
 <script>
   import TheLanguageSwitcher from '@/components/TheLanguageSwitcher'
-  import TheNavigation from '@/components/TheNavigation'
 
   export default {
     name: 'app',
     components: {
-      TheLanguageSwitcher,
-      TheNavigation
+      TheLanguageSwitcher
     },
 
-    mounted () {
+    mounted() {
       const $ = this.jquery
       this.$nextTick(() => {
         $('#frontbildtitle').css('top', 100)
@@ -74,7 +72,7 @@
               })
             }, 1500)
         } else {
-          $('#sideNav').css('height', '50vh')
+          $('#sideNav').css('height', '100vh')
           setTimeout(
             function () {
               $('#sideNav').animate({
@@ -84,8 +82,6 @@
               })
             }, 1500)
         }
-
-        // our custom jQuery code goes here
         $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () {
           if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
             var target = $(this.hash)
@@ -172,27 +168,6 @@
     font-size: 1.5rem;
   }
 
-  .social-icons a {
-    font-family: fontawesome;
-    display: inline-block;
-    height: 3.5rem;
-    width: 3.5rem;
-    background-color: #495057;
-    color: #fff !important;
-    border-radius: 100%;
-    text-align: center;
-    font-size: 1.5rem;
-    line-height: 3.5rem;
-    margin-right: 1rem;
-  }
-
-  .social-icons a:last-child {
-    margin-right: 0;
-  }
-
-  .social-icons a:hover {
-    background-color: #BD5D38;
-  }
 
   .dev-icons {
     font-size: 3rem;
@@ -219,7 +194,7 @@
 
   @media (max-width: 992px) {
     #sideNav {
-      background-size: 100% auto;
+      background-size: cover;
       background-position: top right;
       background-repeat: no-repeat;
       display: flex;

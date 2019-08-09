@@ -42,9 +42,13 @@
                 <p v-html=" $t('employment.company'+index+'.description') "></p>
                 <div class="social-icons">
 
-                  <a v-for="index in $t('employment.company'+index+'.stack')">
-                    <i class="fab" :class="$t(index)" :alt="$t(index)"></i>
+                  <a v-for="index in $t('employment.company'+index+'.stack')" :title="$t(index)" >
+                    <i class="fab" :class="'fa-' + $t(index).toLowerCase()"></i>
                   </a>
+
+                <button type="button" class="btn btn-secondary"  title="Tooltip on top" data-toggle="tooltip" data-placement="top">
+  Tooltip on top
+</button>
 
                 </div>
               </div>
@@ -93,40 +97,40 @@
         <div class="w-100">
           <h2 class="mb-5">{{ $t('skills.title-section') }}</h2>
 
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-              <div class="resume-content">
-                <p v-html=" $t('skills.description') "></p>
+          <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="resume-content">
+              <p v-html=" $t('skills.description') "></p>
 
 
-                <ul>
-                  <li v-for="index in $t('skills.programming')">
-                    {{ $t(index) }}
-                  </li>
-                </ul>
+              <ul class="skills">
+                <li v-for="index in $t('skills.programming')">
+                  {{ $t(index) }}
+                </li>
+              </ul>
 
-
-              </div>
 
             </div>
+
+          </div>
 
         </div>
 
       </section>
 
-            <hr class="m-0">
+      <hr class="m-0">
 
 
       <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="interests">
         <div class="w-100">
           <h2 class="mb-5">{{ $t('interests.title-section') }}</h2>
 
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-              <div class="resume-content">
-                <p v-html=" $t('interests.description') "></p>
-
-              </div>
+          <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="resume-content">
+              <p v-html=" $t('interests.description') "></p>
 
             </div>
+
+          </div>
 
         </div>
 
@@ -161,10 +165,40 @@
   }
 
   a {
-    color: #42b983;
+    color: #ba9372;
+    text-decoration: underline;
   }
 
   .popular_links {
     margin-top: 4rem;
+  }
+
+  .skills li {
+    background: #2f2013;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 5px;
+  }
+
+  .social-icons a {
+    font-family: fontawesome;
+    display: inline-block;
+    height: 3rem;
+    width: 3rem;
+    background-color: #2f2013;
+    color: #fff !important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    margin-right: 1rem;
+  }
+
+  .social-icons a:last-child {
+    margin-right: 0;
+  }
+
+  .social-icons a:hover {
+    background-color: #BD5D38;
   }
 </style>
