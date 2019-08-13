@@ -1,0 +1,68 @@
+.language {
+  width: 100%;
+  text-align: left;
+  font-weight: 800;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+  color: #2f2013;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+
+  .LanguageSwitcher {
+    margin-bottom: 1rem;
+
+    .language-selector {
+      list-style-type: none;
+      margin: 25px 0 0 0;
+      padding: 0;
+      display: flex;
+      flex-wrap: nowrap;
+      max-width:240px;
+    }
+
+    .language-selector {
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: space-around;
+
+      li {
+        width: 100%;
+        margin: 0 5px 0 0;
+        text-align: center;
+      }
+
+      label, input {
+        display: block;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+      }
+
+      input[type="radio"] {
+        opacity: 0.01;
+        z-index: 100;
+      }
+
+      input[type="radio"]:checked + label,
+      .Checked + label {
+        background: #2f2013;
+        color: #fff;
+        border: 1px solid #2f2013;
+
+      }
+
+      label {
+        padding: 5px;
+        background: rgba(255, 255, 255, 0.48);
+        border: 1px solid #CCC;
+        cursor: pointer;
+        z-index: 90;
+
+        &:hover {
+          background: #DDD;
+        }
+      }
+    }
+  }
+}
