@@ -42,13 +42,9 @@
                 <p v-html=" $t('employment.company'+index+'.description') "></p>
                 <div class="social-icons">
 
-                  <a v-for="index in $t('employment.company'+index+'.stack')" :title="$t(index)" >
+                  <a v-for="index in $t('employment.company'+index+'.stack')" :title="$t(index)">
                     <i class="fab" :class="'fa-' + $t(index).toLowerCase()"></i>
                   </a>
-
-                <button type="button" class="btn btn-secondary"  title="Tooltip on top" data-toggle="tooltip" data-placement="top">
-  Tooltip on top
-</button>
 
                 </div>
               </div>
