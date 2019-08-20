@@ -21,10 +21,10 @@
             <a class="nav-link js-scroll-trigger" href="#about"> {{ $t('pages.about') }}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">{{ $t('pages.education') }}</a>
+            <a class="nav-link js-scroll-trigger" href="#experience">{{ $t('pages.employment') }}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">{{ $t('pages.employment') }}</a>
+            <a class="nav-link js-scroll-trigger" href="#education">{{ $t('pages.education') }}</a>
           </li>
 
           <li class="nav-item">

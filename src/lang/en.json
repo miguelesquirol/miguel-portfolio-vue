@@ -5,7 +5,7 @@
   "pages": {
     "about":"About",
     "education":"Education",
-    "employment":"Employment",
+    "employment":"Experience",
     "workflow":"Workflow",
     "skills":"Skills",
     "interests":"Interests"
@@ -55,7 +55,8 @@
         "react",
         "sass",
         "python",
-        "linux"
+        "linux",
+        "terminal fas"
       ],
       "description": "Global Eagle is a leading worldwide provider of inflight entertainment, media content, technology and connectivity solutions to the airline industry. I worked in the delivery team bringing to the Airlines the portal that the passengers will see when they connect to the Wifi on the plane. My role included adapt the theme for the specific client using SASS and GIT, locate and fix bugs working with the QA and Backend department. I translated design to code and modified extensively the look and feel of the portal. I reviewd and implement changes, build packages including front and backend, and deployed them into the Development, Staging and Production Servers. I prepared files and scripts for deployment on the plane. I worked with other teams in our office and in the international offices to present a product that thousands of people will use and enjoy.",
       "client1": {
@@ -163,7 +164,7 @@
   },
   "skills": {
     "title-section": "Skills",
-    "description": "<ul><li>Mobile-First, Responsive Design</li><li>Cross Browser Testing &amp; Debugging (Desktop and Mobile=</li><li>Cross Functional Teams</li><li>Agile Development &amp; Scrum</li><li>Organized and fast</li><li>Atention to detail</li><li>Some design skills with the Adobe Suite</li></ul>",
+    "description": "<ul><li>Mobile-First, Responsive Design</li><li>Cross Browser Testing &amp; Debugging (Desktop and Mobile)</li><li>Cross Functional Teams</li><li>Agile Development &amp; Scrum</li><li>Organized and fast</li><li>Atention to detail</li><li>Some design skills with the Adobe Suite</li></ul>",
     "programming": [
       "CSS",
       "SASS",

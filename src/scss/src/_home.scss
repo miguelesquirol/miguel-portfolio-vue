@@ -6,6 +6,7 @@ ul {
 li {
   display: inline-block;
   margin: 0 10px;
+
 }
 
 .popular_links {
@@ -19,25 +20,60 @@ li {
   margin: 5px;
 }
 
+.social-icons, .skills {
+  a {
+    font-family: fontawesome;
+    display: inline-block;
+    height: 3rem;
+    width: 3rem;
+    background-color: rgba(47, 32, 19, 0.3);
+    color: #fff !important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    margin-right: 1rem;
+
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    &:hover {
+      background-color: #BD5D38;
+    }
+  }
+}
+
 .social-icons a {
-  font-family: fontawesome;
-  display: inline-block;
-  height: 3rem;
-  width: 3rem;
-  background-color: #2f2013;
-  color: #fff !important;
-  border-radius: 100%;
-  text-align: center;
-  font-size: 1.5rem;
-  line-height: 3rem;
-  margin-right: 1rem;
-
-
-  &:last-child {
-    margin-right: 0;
-  }
-
+  background: #BD5D38;
   &:hover {
-    background-color: #BD5D38;
+      background-color: #343a40;
+    }
+}
+
+.resume-content li {
+  display: block;
+
+  &:before {
+    content: "\2022";
+    font-size: 25px;
+    color: #000;
+    padding: 0px 10px;
+    position: relative;
+    top: 4px;
+
   }
+}
+
+.skills li {
+  display: inline-block;
+
+  &:before {
+    display: none;
+  }
+}
+
+.resume-content {
+  margin-top: 50px;
 }

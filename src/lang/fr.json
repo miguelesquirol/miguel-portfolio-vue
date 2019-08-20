@@ -3,11 +3,11 @@
   "name": "Miguel",
   "lastname": "Esquirol",
   "pages": {
-    "about": "Sur",
-    "education": "L'éducation",
-    "employment": "L'emploi",
+    "about": "À propos de moi",
+    "education": "Éducation",
+    "employment": "Expérience",
     "workflow": "Flux de travail",
-    "skills":"Compétences",
+    "skills": "Compétences",
     "interests": "Intérêts"
   },
   "email": "miguelesquirol@gmail.com",
@@ -26,7 +26,7 @@
     "clients": "Les clients"
   },
   "education": {
-    "title-section": "L'éducation",
+    "title-section": "Éducation",
     "school1": {
       "school": "L'Ohio State University",
       "title": "Masteria ",
@@ -44,18 +44,20 @@
     }
   },
   "employment": {
-    "title-section": "L'expérience",
+    "title-section": "Expérience",
     "company1": {
       "title": "Développeur Front-End",
-      "name": "Mondial De L'Aigle",
+      "name": "Global Eagle",
       "url": "http://www.globaleagle.com",
       "period": "2018 > présent",
       "stack": [
-        "angle",
+        "angular",
         "react",
         "sass",
         "python",
-        "linux"
+        "linux",
+        "terminal",
+        "terminal fas"
       ],
       "description": "Global Eagle est un fournisseur mondial de solutions pour le divertissement, les médias, la technologie et la connectivité à bord pour l'industrie aérienne. J'ai travaillé dans l'équipe de livraison plus grandes compagnies aériennes sur le portail que les passagers se verront lorsqu'ils se connectent au Wifi dans l'avion. Mon rôle a consisté à adapter le thème de la client spécifique à l'aide de SASS et GIT, de localiser et de corriger les erreurs de travailler avec le département de contrôle de la qualité et backend. J'ai traduit la conception pour le code et j'ai largement modifié l'apparence du portail. et mettre en œuvre des changements, créer des packages incluent front-end et back-end, et de les déployer sur les serveurs du développement, de la préparation et de la production. J'ai préparé les fichiers et les scripts pour votre déploiement sur l'avion. J'ai travaillé avec d'autres ordinateurs dans nos bureaux et dans nos bureaux internationaux pour présenter un produit que des milliers de personnes vont l'utiliser et en profiter.",
       "client1": {
@@ -131,7 +133,7 @@
         "html5",
         "js-square",
         "wordpress",
-        "af-php",
+        "php",
         "paypal"
       ],
       "description": "<ul> <li>LinkNow Media développe des sites web et des solutions de marketing numérique pour plus de 10 000 clients à travers les États-unis et au Canada </li><li> je suis un designer avec des milliers de clients, des petites entreprises aux États-unis et le Canada. </li> <li> j'ai Été responsable de la conception, le code et le contact avec les clients de chacune et de chacun d'entre eux </ li> <li> en Commençant par un cadre de la production propre dans Wordpress, j'ai conçu et j'ai codé des milliers de sites web différents. </li> <li> j'ai Été responsable pour les sites de e-commerce dans plusieurs comptes. </li> <li> j'ai formé de nouveaux designers et junior dans les procédures et les normes de conception. </li> <li> je suis le créateur de plus de clients et de responsabilités dans l'entreprise au moment de la sortie. </li> </ul>"
@@ -144,7 +146,7 @@
       "stack": [
         "html5",
         "css3",
-        "af-php",
+        "php",
         "wordpress"
       ],
       "description": "J'ai travaillé directement avec un graphiste sur des projets personnels, les entreprises, à but non lucratif et indépendante clients. J'ai eu un contrôle complet du code et de la conception du site, ainsi que l'hébergement, la maintenance et les mises à jour régulière des sites. J'ai développé des bourses pour des amis proches, et j'ai créé des projets personnels, en essayant de rassembler les gens.",

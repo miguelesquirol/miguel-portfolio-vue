@@ -43,6 +43,13 @@ p.lead {
   font-family: $font2;
 }
 
+p, li {
+  font-size: 1.2rem;
+}
+
+p {
+  margin: 20px 0px;
+}
 
 .bg-primary {
   background-color: $color2 !important;
@@ -98,4 +105,14 @@ section.resume-section {
 
     }
   }
+}
+
+#skills, #education {
+  .resume-content {
+    margin-top: 0px;
+  }
+}
+
+.skills {
+  margin-top: 50px
 }

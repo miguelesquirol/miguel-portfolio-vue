@@ -7,8 +7,8 @@
           <h1 class="mb-0">{{ $t('name') }}
             <span class="text-primary">{{ $t('lastname') }}</span>
           </h1>
-          <div class="subheading mb-5">{{ $t('phone') }} | {{ $t('languages') }}
-            <a href="miguelesquirol@gmail.com">{{ $t('email') }}</a>
+          <div class="subheading mb-5">{{ $t('phone') }} | {{ $t('languages') }} |
+            <a href="mailto:miguelesquirol@gmail.com">{{ $t('email') }}</a>
           </div>
           <p class="lead mb-5">{{ $t('welcome_message') }}</p>
           <div class="social-icons">
@@ -40,7 +40,7 @@
                 <h3 class="mb-0">{{ $t('employment.company'+index+'.title') }}</h3>
                 <div class="subheading mb-3">{{ $t('employment.company'+index+'.name') }}</div>
                 <p v-html=" $t('employment.company'+index+'.description') "></p>
-                <div class="social-icons">
+                <div class="skills">
 
                   <a v-for="index in $t('employment.company'+index+'.stack')" :title="$t(index)">
                     <i class="fab" :class="'fa-' + $t(index).toLowerCase()"></i>
@@ -95,7 +95,7 @@
 
           <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="resume-content">
-              <p v-html=" $t('skills.description') "></p>
+              <div v-html=" $t('skills.description') "></div>
 
 
               <ul class="skills">

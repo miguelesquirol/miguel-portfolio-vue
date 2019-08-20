@@ -3,11 +3,11 @@
   "name": "Miguel",
   "lastname": "Esquirol",
   "pages": {
-    "about": "Acerca de",
+    "about": "Sobre mim",
     "education": "Educação",
     "employment": "Empleo",
     "workflow": "Fluxo de trabalho",
-    "programming": "Programação",
+    "skills": "Habilidades",
     "interests": "Intereses"
   },
   "email": "miguelesquirol@gmail.com",
@@ -28,7 +28,7 @@
   "education": {
     "title-section": "Educação",
     "school1": {
-      "school": "Universidade Do Estado De Ohio",
+      "school": "The Ohio State University",
       "title": "Masteria ",
       "year": "De dois mil e oito"
     },
@@ -38,7 +38,7 @@
       "year": "Dois mil e seis"
     },
     "school3": {
-      "school": "A Universidad Católica Boliviana",
+      "school": "Universidad Católica Boliviana",
       "title": "Licenciatura",
       "year": "Dois mil e dois"
     }
@@ -47,7 +47,7 @@
     "title-section": "Experiencia",
     "company1": {
       "title": "Front-End Developer",
-      "name": "Global Águia",
+      "name": "Global Eagle",
       "url": "http://www.globaleagle.com",
       "period": "2018 > presente",
       "stack": [
@@ -55,7 +55,8 @@
         "react",
         "sass",
         "python",
-        "linux"
+        "linux",
+        "terminal fas"
       ],
       "description": "A Global Eagle é uma fornecedora global líder de entretenimento on-board, conteúdo multimídia, tecnologia e soluções de conectividade para o setor aéreo. Trabalhei na equipe de entregas levando para as companhias aéreas o portal que os passageiros verão quando se conectarem ao Wifi no avião. Minha função incluía adaptar o tema para o cliente específico usando o SASS e o GIT, localizando e corrigindo erros trabalhando com o departamento de controle de qualidade e de back-end. Traduzi o design no código e modifiquei bastante a aparência do portal. e implementar mudanças, criar pacotes que incluam front-end e backend e implantá-los em servidores de desenvolvimento, preparação e produção. Eu preparei arquivos e scripts para implantação no avião. Trabalhei com outras equipes em nosso escritório e em escritórios internacionais para apresentar um produto que milhares de pessoas usarão e apreciarão.",
       "client1": {
@@ -123,7 +124,7 @@
     },
     "company3": {
       "title": "Web Designer",
-      "name": "Link De Mídia",
+      "name": "Linknow Media",
       "url": "http://www.linknow.com",
       "period": "2012 > 2017",
       "stack": [
@@ -177,7 +178,7 @@
       "Javascript",
       "jQuery",
       "Bootstrap",
-      "Fundação",
+      "Fundation",
       "npm",
       "git"
     ]
