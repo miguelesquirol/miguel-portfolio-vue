@@ -135,7 +135,31 @@
         "php",
         "paypal"
       ],
-      "description": "<ul> <li>LinkNow Media desarrolla sitios web y soluciones de marketing digital para más de 10,000 clientes en todo Estados Unidos y Canadá </li><li> Fui diseñador con miles de clientes, pequeñas empresas en los Estados Unidos y Canadá. </li> <li> Fui responsable del diseño, el código y el contacto con el cliente de cada uno de ellos </ li> <li> Comenzando con un marco de producción propia en Wordpress, diseñé y codifiqué miles de sitios web diferentes. </li> <li> Fui responsable de sitios de comercio electrónico en varias cuentas. </li> <li> Capacité a nuevos diseñadores junior en procedimientos, diseño y estándares. </li> <li> Yo era el diseñador con más clientes y responsabilidades en la empresa al momento de salir. </li> </ul>"
+      "description": "<ul> <li>LinkNow Media desarrolla sitios web y soluciones de marketing digital para más de 10,000 clientes en todo Estados Unidos y Canadá </li><li> Fui diseñador con miles de clientes, pequeñas empresas en los Estados Unidos y Canadá. </li> <li> Fui responsable del diseño, el código y el contacto con el cliente de cada uno de ellos </ li> <li> Comenzando con un marco de producción propia en Wordpress, diseñé y codifiqué miles de sitios web diferentes. </li> <li> Fui responsable de sitios de comercio electrónico en varias cuentas. </li> <li> Capacité a nuevos diseñadores junior en procedimientos, diseño y estándares. </li> <li> Yo era el diseñador con más clientes y responsabilidades en la empresa al momento de salir. </li> </ul>",
+       "client1": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client2": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client3": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client4": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      }
     },
     "company4": {
       "title": "Web designer freelancer",
@@ -159,6 +183,19 @@
         "name": "Cozinheiros Globais",
         "image": "",
         "description": "Trabalhando com um jornalista da Índia, desenvolvemos um site onde as pessoas podiam compartilhar receitas e a experiência de cozinhar essas receitas com todos. Recebemos chefs de diferentes nacionalidades para compartilhar sua experiência conosco.",
+        "url": ""
+      },
+
+      "client3": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client4": {
+        "name": "",
+        "image": "",
+        "description": "",
         "url": ""
       }
     }

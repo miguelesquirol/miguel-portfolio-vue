@@ -3,12 +3,12 @@
   "name": "Miguel",
   "lastname": "Esquirol",
   "pages": {
-    "about":"About",
-    "education":"Education",
-    "employment":"Experience",
-    "workflow":"Workflow",
-    "skills":"Skills",
-    "interests":"Interests"
+    "about": "About",
+    "education": "Education",
+    "employment": "Experience",
+    "workflow": "Workflow",
+    "skills": "Skills",
+    "interests": "Interests"
   },
   "email": "miguelesquirol@gmail.com",
   "phone": "5145678197",
@@ -96,7 +96,7 @@
         "Wordpress",
         "Sass"
       ],
-      "description" : "Agency that creates cross platform native mobile and web apps with major tech clients. I worked as a front end developer in different projects with a diverse stack.",
+      "description": "Agency that creates cross platform native mobile and web apps with major tech clients. I worked as a front end developer in different projects with a diverse stack.",
       "client1": {
         "name": "National Geograhic",
         "image": "",
@@ -105,8 +105,7 @@
       },
       "client2": {
         "name": "CAA",
-        "image": "I worked with the team supporting CAA, an automotive, travel, residential and insurance products. With a complex network of websites I helped maintain and develop new features.",
-        "description": "",
+        "description": "I worked with the team supporting CAA, an automotive, travel, residential and insurance products. With a complex network of websites I helped maintain and develop new features.",
         "url": "https://www.caaquebec.com"
       },
       "client3": {
@@ -134,9 +133,32 @@
         "Wordpress",
         "PHP",
         "Paypal"
-
       ],
-      "description": "<ul> <li>LinkNow Media develops websites and digital marketing solutions for over 10,000+ clients throughout the United States and Canada</li><li>I was designer with thousands of clients, small companies across the US and Canada.</li><li>I was responsible of design, code and client contact of each of them</li><li>Starting with a homegrown framework in Wordpress I designed and coded thousands of different websites.</li><li>I was responsible of e-commerce sites on several accounts.</li><li>I trained new junior designers on procedures, design and standards.</li><li>I was the designer with the most clients and responsibilities on the company at the moment of leaving.</li></ul>"
+      "description": "<ul> <li>LinkNow Media develops websites and digital marketing solutions for over 10,000+ clients throughout the United States and Canada</li><li>I was designer with thousands of clients, small companies across the US and Canada.</li><li>I was responsible of design, code and client contact of each of them</li><li>Starting with a homegrown framework in Wordpress I designed and coded thousands of different websites.</li><li>I was responsible of e-commerce sites on several accounts.</li><li>I trained new junior designers on procedures, design and standards.</li><li>I was the designer with the most clients and responsibilities on the company at the moment of leaving.</li></ul>",
+      "client1": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client2": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client3": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client4": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      }
     },
     "company4": {
       "title": "Independent Web Designer",
@@ -155,6 +177,24 @@
         "image": "",
         "description": "The CSJR (Centre for Services in Restorative justice) is the bilingual site for a non-profit project that relies on encounters between persons who directly or indirectly, have suffered or committed crimes of a similar nature in order to restore together the damage done by the crime. I worked on this project, replacing the original site they had with a new more modern one. From design (together with a graphic designer), to coding, hosting and maintenance, the site is built on Wordpress with custom PHP code (without builders), with security and multilingual supprot.",
         "url": "http://www.csjr.org/"
+      },
+      "client2": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client3": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
+      },
+      "client4": {
+        "name": "",
+        "image": "",
+        "description": "",
+        "url": ""
       }
     }
   },

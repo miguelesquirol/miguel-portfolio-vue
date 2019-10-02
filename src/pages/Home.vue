@@ -40,6 +40,17 @@
                 <h3 class="mb-0">{{ $t('employment.company'+index+'.title') }}</h3>
                 <div class="subheading mb-3">{{ $t('employment.company'+index+'.name') }}</div>
                 <p v-html=" $t('employment.company'+index+'.description') "></p>
+                <div class="company">
+                  <div v-for="d in 4" :key="d">
+                    <div v-if="('employment.company'+index+'.client'+d)">
+                    <a v-bind:href="$t('employment.company'+index+'.client'+d+'.url')"> {{ $t('employment.company'+index+'.client'+d+'.name') }}</a>
+                    <p v-html=" $t('employment.company'+index+'.client'+d+'.description') "></p>
+                    </div>
+                  </div>
+                </div>
+
+
+
                 <div class="skills">
 
                   <a v-for="index in $t('employment.company'+index+'.stack')" :title="$t(index)">
