@@ -58,17 +58,17 @@
         "linux",
         "terminal fas"
       ],
-      "description": "Global Eagle is a leading worldwide provider of inflight entertainment, media content, technology and connectivity solutions to the airline industry. I worked in the delivery team bringing to the Airlines the portal that the passengers will see when they connect to the Wifi on the plane. My role included adapt the theme for the specific client using SASS and GIT, locate and fix bugs working with the QA and Backend department. I translated design to code and modified extensively the look and feel of the portal. I reviewd and implement changes, build packages including front and backend, and deployed them into the Development, Staging and Production Servers. I prepared files and scripts for deployment on the plane. I worked with other teams in our office and in the international offices to present a product that thousands of people will use and enjoy.",
+      "description": "Global Eagle is a leading worldwide provider of inflight entertainment, media content, technology and connectivity solutions to the airline industry. I worked bringing to the Airlines the portal that the passengers will see when they connect to the Wifi on the plane. My role included adapt the theme for the specific client using SASS and GIT, locate and fix bugs working with the QA and Backend department. I translated design to code and modified extensively the look and feel of the portal. I reviewed and implement changes, build packages including front and backend, and deployed them into the Development, Staging and Production Servers. I prepared files and scripts for deployment on the plane. I worked with other teams in our office and in the international offices to present a product that thousands of people will use and enjoy.",
       "client1": {
         "name": "Air France",
         "image": "",
-        "description": "I adapted the main portal for the specific needs of this client. I helped implement new features (Live TV, Games, etc.). I prepared the files that the QA will review and later that the planes will have installed.",
+        "description": "I adapted the main portal for the specific needs of this client. I helped implement new features (Live TV, Games, etc.). I prepared the files that the QA will review and later that the planes will have installed. I updated the UX/UI design to a more modern one, changing almost every aspect of the portal to follow the lines required by the design department. ",
         "url": "https://www.airfrance.ca/CA/fr/common/ife/dispatch/tous_les_films.htm"
       },
       "client2": {
         "name": "Southwest",
         "image": "",
-        "description": "I updated the look and feel of the portal with a complete overhaul of UI/UX desgin, adapting the Designs from the Design Team into the actual code. I worked with SASS and Python to achieve the expected result. I've helped to create new features, and fix the issues that the client found",
+        "description": "I updated the look and feel of the portal with a complete overhaul of UI/UX design, translating what the Design department created into the actual code. I worked with SASS and Python to achieve the expected result. For a fully functional and responsive site. I've helped to create new features, and fix the issues that the client found. This new design has lead to an over 20% increase the free services.  The new experiences helps keep our Customers happier during flights by making it easier to find the free services, including movies, messaging, live TV, and the live flight tracker.",
         "url": "https://www.southwest.com/wifi/"
       },
       "client3": {
@@ -80,7 +80,7 @@
       "client4": {
         "name": "United Airways",
         "image": "",
-        "description": "Built on React, we created a website to present the Airline offers on inflight entertainment. I worked to make this site fully accessible following the client requirements",
+        "description": "We created a website build  in React to present the Airline offers on inflight entertainment. I worked to make this site fully accessible following the client requirements",
         "url": "http://unitedprivatescreening.com/"
       }
     },
@@ -96,7 +96,7 @@
         "Wordpress",
         "Sass"
       ],
-      "description" : "Agency that creates cross platform native mobile and web apps with major tech clients. I worked in a highly skilled team environment with top software developers.",
+      "description" : "Agency that creates cross platform native mobile and web apps with major tech clients. I worked as a front end developer in different projects with a diverse stack.",
       "client1": {
         "name": "National Geograhic",
         "image": "",
@@ -105,7 +105,7 @@
       },
       "client2": {
         "name": "CAA",
-        "image": "I worked with the team suporting CAA, an automotive, travel, residential and insurance products. With a complex network of websites I helped maintain and develop new features.",
+        "image": "I worked with the team supporting CAA, an automotive, travel, residential and insurance products. With a complex network of websites I helped maintain and develop new features.",
         "description": "",
         "url": "https://www.caaquebec.com"
       },
@@ -118,7 +118,7 @@
       "client4": {
         "name": "Cineplex",
         "image": "",
-        "description": "I worked in the Frontend team developing the style and main frontend elements for the website of one of the biggest Cinema Chain in Canada. I helped create the Atomic Framework based on the Atomic Design philosophy that later the Backend team used to create the site.",
+        "description": "I worked in the Frontend team developing the style and main frontend elements for the website of one of the biggest Cinema Chains in Canada. I helped create the Atomic Framework based on the Atomic Design philosophy that later the Backend team used to create the site.",
         "url": "https://www.cineplex.com/"
       }
     },
