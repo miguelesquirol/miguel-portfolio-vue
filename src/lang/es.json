@@ -205,7 +205,7 @@
   },
   "skills": {
     "title-section": "Habilidades",
-    "description": "<ul> <li> Diseño responsivo móvil-first</li> <li> Pruebas cruzadas de navegador y depuración de bugs (escritorio y móvil ) </li> <li> Equipos multifuncionales </li> < li> Desarrollo ágil y scrum </li> <li> Organizado y rápido </li> <li> Atención a los detalles </li> <li> Algunas habilidades de diseño con Adobe Suite </li> </ul>",
+    "description": "<ul> <li> Diseño responsivo móvil-first</li> <li> Pruebas cruzadas de navegador y depuración de bugs (escritorio y móvil ) </li> <li> Equipos multifuncionales </li> <li> Desarrollo ágil y scrum </li> <li> Organizado y rápido </li> <li> Atención a los detalles </li> <li> Algunas habilidades de diseño con Adobe Suite </li> </ul>",
     "programming": [
       "CSS",
       "SASS",
